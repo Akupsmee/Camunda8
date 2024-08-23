@@ -1,0 +1,6 @@
+node_modules
+sass*
+sass-config
+vscode*
+self-managed-config.sh
+.env
